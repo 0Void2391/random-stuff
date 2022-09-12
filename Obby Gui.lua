@@ -166,6 +166,8 @@ Mouse.KeyDown:Connect(function(Key)
 
 if Key == " " then
 		game.Players.LocalPlayer.Character:FindFirstChildOfClass('Humanoid'):ChangeState(3)
+end
+end)
 end)
 localchannel:Button("Float, press e to enable/disable", function()
 local testsquadAIR    = {
