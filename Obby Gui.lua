@@ -31,8 +31,6 @@ Contact:Label("My Discord: 0_Void#4435")
 
 local Changelog = welcometab:Channel("Change Log")
 
-Changelog:Label("Added Godmode")
-
 Changelog:Label("Changed Inf jump to a Button because i can't make it toggleable")
 Changelog:Label("Added RGB Keystrokes (very pog)")
 
